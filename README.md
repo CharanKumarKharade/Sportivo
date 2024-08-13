@@ -1,3 +1,5 @@
+Sportivo is an e-commerce shoe selling platform where various types of shoes can be made available at one place through the means of virtual store.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
