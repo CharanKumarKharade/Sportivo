@@ -1,4 +1,5 @@
 Sportivo is an e-commerce shoe selling platform where various types of shoes can be made available at one place through the means of virtual store.
+Developed using Tailwind CSS and ReactJS
 
 # React + Vite
 
